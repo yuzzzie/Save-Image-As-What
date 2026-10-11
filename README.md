@@ -46,7 +46,7 @@ This extension does **NOT** track or collect any data.
 ## Support Me  
 If you find this extension useful, you can **support me** by:  
 - [Star this respository](https://github.com/yuzzzie/Save-Image-As-What)  
-- [Follow me on X](https://x.com/yuzzziee)
+- [Follow me on X](https://x.com/yuzzzie)
 
 Your support means a lot! 🚀  
 
